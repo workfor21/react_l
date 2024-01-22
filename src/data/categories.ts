@@ -1,0 +1,22 @@
+export const categories = [
+    "All",
+    "Javascript",
+    "Typescript",
+    "Programming",
+    "Weight Lifting",
+    "Bowling",
+    "Next.js",
+    "Web Dev",
+    "Crash Course",
+    "Music",
+    "Mixes",
+    "Audio Books",
+    "Movie Recaps",
+    "Yoga",
+    "Mediation Music",
+    "Chess Tournament",
+    "Customizable Widget in Flutter",
+    "React Tutorial",
+    "Angular Crash Course",
+    "AI and ML"
+];
